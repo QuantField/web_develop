@@ -1,4 +1,5 @@
 
-var town = prompt("What is your city?");
+// var town = prompt("What is your city?");
 
-document.getElementById('mytext').innerHTML = town
+// document.getElementById('mytext').innerHTML = town
+
